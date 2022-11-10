@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner](https://github.com/joaomtoldo/joaomtoldo/blob/main/banner.jpg)
 
 <!--
 **joaomtoldo/joaomtoldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
