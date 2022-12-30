@@ -1,11 +1,13 @@
-![banner](https://github.com/joaomtoldo/joaomtoldo/blob/main/banner.jpg)
---
-<!--
-**joaomtoldo/joaomtoldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+# GitHub de João M. Toldo
+---
 
-- 🔭 I’m currently working on ...
+* I'm a Environmental Engineering who worked in groundwater remediation for 8 years, now i'm learning software devoloping.
+
+* I starts with Python 3 and Programming Logic.
+
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
