@@ -6,6 +6,7 @@
 * I'm a Environmental Engineering who worked in groundwater remediation for 8 years, now i'm learning software devoloping.
 
 * I starts with Python 3 and Programming Logic.
+* Now i'm learning JAVA. 
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
